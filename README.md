@@ -6,8 +6,20 @@ estoy haciendo un curso de programacion web para ser Full Stack Developer
 
 las tecnologias que e aprendido y que suelo utilizar son:
 
-React | Redux | HTML | CSS | JAVASCRIPT | EXPRESS | MYSQL | Postgres
+- React 
+- Redux 
+- HTML 
+- CSS 
+- JAVASCRIPT 
+- EXPRESS 
+- MYSQL 
+- Postgres
 
+🖥️ TE PUEDES CONTACTAR CONMIGO A TRAVEZ DE:
+
+- JuanChiquiza30@gmail.com
+
+- https://www.linkedin.com/in/juanchiquiza30/
 
 
 <!--
