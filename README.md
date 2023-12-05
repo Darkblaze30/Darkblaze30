@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hola mundo!!!
+
+soy un joven de 19 años el cual esta apasionado por este mundo de la programacion
+
+estoy haciendo un curso de programacion web para ser Full Stack Developer
+
+las tecnologias que e aprendido y que suelo utilizar son:
+
+React | Redux | HTML | CSS | JAVASCRIPT | EXPRESS | MYSQL | Postgres
+
+
 
 <!--
 **Darkblaze30/Darkblaze30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
